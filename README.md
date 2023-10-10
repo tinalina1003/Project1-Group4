@@ -2,7 +2,8 @@
 
 # Main Research Question:
 
-    Hypothesis: There is a relationship between political influences, socioeconomic factors, and COVID-19 vaccination rates in the United States.
+    Hypothesis: 
+    There is a relationship between political influences, socioeconomic factors, and COVID-19 vaccination rates in the United States.
  
 # Sub Questions: 
 
