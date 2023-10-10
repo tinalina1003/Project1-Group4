@@ -44,7 +44,7 @@
 
 # Political Influence
 
-    Hypothesis: Correlation with Party Affiliation in the US
+    Correlation with Party Affiliation in the US
     
     Data represents 66% of the total voter turnout
     
