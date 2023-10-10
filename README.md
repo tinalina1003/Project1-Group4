@@ -44,8 +44,12 @@
 
 # Political Influence
 
+    In Christina's folder. VaccinationRatesUSonly.ipynb is the main python file while there are several files that are libraries.
+
     Correlation with Party Affiliation in the US
     
     Data represents 66% of the total voter turnout
     
     p = 8x10-6 
+
+    
