@@ -16,7 +16,7 @@
     
     Downward secular trend for vaccines administered between March 2021 and July 2021
     
-    Upward trend in vaccines occured between September 2021 and December 2021 (second peak) followed by a downward secular trend that lasted until March 2022. 
+    Upward trend in vaccines occured between September 2021 and December 2021 (second peak) followed by a downward secular trend that lasted until March 2022 
     
     Confirmed COVID-19 cases peaked in January 2022
     
@@ -24,20 +24,27 @@
 
 # Age vs Vaccines Administered
 
-    The number of vaccines administered by age group was analyzed to see which age group had the most vaccines administered to them by single dose or series. 
-    The number of vaccines administered by county was analyzed to see how many single dose and series vaccinations were administered by county. 
+    The number of vaccines administered by age group was analyzed to see which age group had the most vaccines administered to them by single dose or series
+    
+    The number of vaccines administered by county was analyzed to see how many single dose and series vaccinations were administered by county
 
 # Death Rates
+
     Assess death rates by vaccination status across age groups.
+    
     Death rates highest in 65+ group but reduced with vaccination. Youngest age group (5-11) had minimal death rates. 
-    Unvaccinated consistently showed higher death rates across all ages                               
+    
+    Unvaccinated consistently showed higher death rates across all ages      
+    
     Data represents a specific timeframe.
-    Broad age categories used.
-    Limited to dataset's regional origin.
+    
     Vaccination, especially booster doses, plays a key role in reducing severe outcomes.
 
 
-Political Influence
-Hypothesis: Correlation with Party Affiliation in the US
-Data represents 66% of the total voter turnout
-p = 8x10-6 
+# Political Influence
+
+    Hypothesis: Correlation with Party Affiliation in the US
+    
+    Data represents 66% of the total voter turnout
+    
+    p = 8x10-6 
